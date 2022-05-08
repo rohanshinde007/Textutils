@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+
+nav {
+  display: flex;
+font-size: 20px;
+  text-decoration: none;
+  list-style: none;
+  background-color: black;
+}
+
+li{
+  margin: 20px;
+  color: azure;
+}
+
+li:hover{
+  color: red;
+}
